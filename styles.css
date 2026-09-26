@@ -164,6 +164,12 @@ h3 span {
   padding-top: 0.35rem;
 }
 
+.school {
+  margin-top: 1.8rem;
+  padding-top: 1.6rem;
+  border-top: 1px solid var(--line);
+}
+
 ul { padding-left: 1.1rem; color: #d5d1c6; }
 li + li { margin-top: 0.4rem; }
 
