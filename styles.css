@@ -113,6 +113,9 @@ h1 {
 .hero-meta a:hover,
 .links a:hover { border-bottom-color: var(--accent); }
 
+.hero-meta a:visited,
+.links a:visited { color: var(--accent); }
+
 section { padding: 3.4rem 0; border-bottom: 1px solid var(--line); }
 
 section p { margin: 0 auto; max-width: 40rem; }
