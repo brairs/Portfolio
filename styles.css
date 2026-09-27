@@ -225,6 +225,19 @@ li + li { margin-top: 0.4rem; }
   color: var(--ink);
 }
 
+.public-work {
+  margin-top: 1.6rem;
+  font-size: 1rem;
+  color: var(--muted);
+}
+
+.public-work a {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.9rem;
+  color: var(--accent);
+  text-decoration: none;
+}
+
 .contact .hero-meta { margin-top: 1.2rem; }
 
 footer {
